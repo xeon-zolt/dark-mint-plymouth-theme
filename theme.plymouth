@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=Dark Mint
-Description=Dark Mint theme by Josep Sayol
+Name=Dark DZB
+Description=Dark DZB theme based on Dark MINT by Josep Sayol modified by xeon zolt
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/dark-mint
-ScriptFile=/lib/plymouth/themes/dark-mint/theme.script
+ImageDir=/lib/plymouth/themes/dark-dzb
+ScriptFile=/lib/plymouth/themes/dark-dzb/theme.script
