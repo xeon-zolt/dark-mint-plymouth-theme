@@ -5,7 +5,7 @@ if [ $EUID -ne 0 ]; then
 	exit
 fi
 
-THEME='dark-mint'
+THEME='dark-dzb'
 INSTALLDIR=/lib/plymouth/themes
 
 printf "Copying '${THEME}' theme files..."
